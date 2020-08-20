@@ -1,2 +1,2 @@
 ### Hello guys!
-#### Visit [my website](https://rikonardo.now.sh), if you want contact with me!
+#### Visit [my website](https://rikonardo.com), if you want contact with me!
