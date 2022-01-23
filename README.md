@@ -33,3 +33,7 @@
 ![Website](https://img.shields.io/badge/Discord-Rikonardo%236978-5865F2?style=flat-square&logo=discord)
 [![VK](https://img.shields.io/badge/VK-@rikonardo-0077FF?style=flat-square&logo=vk)](https://vk.com/rikonardo)
 [![EMail](https://img.shields.io/badge/Email-rikonardo.of@gmail.com-E34F26?style=flat-square&logo=gmail)](mailto:rikonardo.of@gmail.com)
+
+## 🎉 Other links
+[![Maven Repo](https://img.shields.io/badge/-Maven_Repo-C71A36?style=flat-square&logo=apachemaven)](https://maven.rikonardo.com)
+[![Voxelhax Project](https://img.shields.io/badge/-Voxelhax_Project-8589C8?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAAK9JREFUOE/NlDESAiEMRfMqe6+mR/AW9l7CK2jpuWy3+w6MMEyWIHRuuSEvn/ATbPBJUgoDRMe6gZTok3r/MrwlSzqZ2RG49ypKupjZG3iWeAVEFQJQVchKooflXEln4DFqZqQi92AVUF6m9mAW4BOnAZI2MzuEPvilIKq8oiC78b8V7Hzv7D2+QjkcOTJ8vu+E9oZpA14t2DXwCtx2w+Rll3FuFfT2QrgoEnBmoXwAoQKK6/a7o7EAAAAASUVORK5CYII=)](https://voxelhax.com)
