@@ -7,6 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![C#](https://img.shields.io/badge/-C%23-9A4F96?style=flat-square&logo=csharp)
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
