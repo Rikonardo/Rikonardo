@@ -34,7 +34,7 @@
 
 ## 📞 Contacts
 [![Website](https://img.shields.io/badge/Website-https://rikonardo.com-E34A86?style=flat-square&logo=internetexplorer)](https://rikonardo.com)
-![Website](https://img.shields.io/badge/Discord-Rikonardo%236978-5865F2?style=flat-square&logo=discord)
+![Website](https://img.shields.io/badge/Discord-rikonardo-5865F2?style=flat-square&logo=discord)
 [![EMail](https://img.shields.io/badge/Email-rikonardo.of@gmail.com-E34F26?style=flat-square&logo=gmail)](mailto:rikonardo.of@gmail.com)
 
 ## 🎉 Other links
